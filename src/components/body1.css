@@ -21,11 +21,11 @@ body {
   
   .overlay {
     position: absolute;
-    top: 20px; /* Ajustez la distance du haut */
-    left: 20px; /* Ajustez la distance de la droite */
-    text-align: left; /* Aligner le texte à droite */
+    top: 20px; 
+    left: 20px; 
+    text-align: left; 
     color: white;
-    font-size: 24px; /* Ajustez la taille de la police */
+    font-size: 24px; 
     font-weight: 400;
     padding-left: 60px;
   }
