@@ -1,6 +1,6 @@
 body {
   margin: 0; 
- 
+  font-family: "Roboto", sans-serif;
 }
 
 /*navbar1*/
@@ -55,7 +55,7 @@ body {
   justify-content: space-between;
   align-items: center;
   background-color: #ffffff;
-  padding: 30px 20px;
+  padding: 13px 20px;
   font-family: "Roboto", sans-serif;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -90,28 +90,28 @@ body {
 .nav-links li a {
   text-decoration: none;
   color: #07397B;
-  font-size: 20px;
+  font-size: 17px;
 }
 
 .btn {
-  padding: 15px 40px;
+  padding: 10px 30px;
   background-color: #DF5F03;
   border: none;
   color: white;
   border-radius: 30px;
   cursor: pointer;
   font-family: "Roboto", sans-serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 .logo {
-  width: 210px;
-  height: 90px;
-  margin-left: 45px;
+  width: 170px;
+  height: 80px;
+  margin-left: 65px;
   margin-top: 0px;
 }
 .user{
-  width: 40px;
-  height: 48px;
+  width: 30px;
+  height: 36px;
   padding-left: 18px;
   padding-right: 22px;
 }

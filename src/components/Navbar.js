@@ -2,7 +2,7 @@ import React from 'react'
 import './Navbar.css';
 import linkedin from '../icons/linkedin.png';
 import user from '../icons/user.png';
-import logo from "./logo.png";
+import logo from "../icons/logo.png";
 import { useState, useEffect } from 'react';
 
 
