@@ -35,9 +35,10 @@ export default function Home() {
       </div>     
            
      <div class="forms">           
-      <button id='signinb'onClick={signinfun} >SignIn</button>
-      <button id='signupb' onClick={signupfun}>SignUp</button>
-      </div>          
+       <button id='signinb'onClick={signinfun} >SignIn</button>
+       <button id='signupb' onClick={signupfun}>SignUp</button>
+      </div>   
+             
       <div id="signindiv"><SignIN/></div> 
       <div id="signupdiv"><SignUP/>/</div>
      

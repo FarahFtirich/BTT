@@ -1,5 +1,6 @@
 import React from 'react'
-import './SignIN.css'; 
+import './home.css'; 
+
 
 
 const SignIN = () => {
@@ -10,18 +11,17 @@ const SignIN = () => {
    <div className="signin">
     
      <div className="signin__form">
-            <form>
-               <input type="email" placeholder="Email" />
-               <input type="password" placeholder="Password" />
-               <button className='button' type="submit">Sign In</button>
-            </form>
+     <form>
+          <label htmlFor="email">E-Mail</label><br/>
+          <input type="email"  id="email" /><br/>
+          <label htmlFor="password">Password</label><br/>
+          <input type="password" id="password" />
+          <h3>Forgot your password?</h3>
+          <button className='button' type="submit" id="sub">Sign In</button>
+</form>
      </div>
   </div>
 </section>
-
-
-
-
-  );
+);
 };
 export default SignIN;

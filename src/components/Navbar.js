@@ -5,9 +5,10 @@ import user from '../icons/user.png';
 import logo from "../icons/logo.png";
 import { useState, useEffect } from 'react';
 
-
+   
 
   const CNavbar = () => {
+
     const [isMobile, setIsMobile] = useState(false);
   useEffect(() => {
   const handleResize = () => {
