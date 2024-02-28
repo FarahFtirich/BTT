@@ -1,0 +1,29 @@
+.container1, .container2 {
+    flex: 1; 
+    padding: 0px;
+    width: 800px; 
+    height: 496.6px; 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  .forms{
+    margin-top: 100px;
+    position: absolute;
+    margin-left: 187px;
+  }
+#signupdiv{
+    display: none;
+}
+#signindiv{
+    display: block;
+}
+.welcome {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .welcome__image img {
+    width: 800px; 
+    height: 496.6px; 
+  }
