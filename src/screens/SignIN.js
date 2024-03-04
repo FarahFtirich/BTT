@@ -18,7 +18,7 @@ const SignIN = () => {
           <input type="password" id="password" />
           <h3>Forgot your password?</h3>
           <button className='button' type="submit" id="sub">Sign In</button>
-</form>
+     </form>
      </div>
   </div>
 </section>

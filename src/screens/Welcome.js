@@ -2,6 +2,7 @@ import React from 'react'
 import welcome1 from "../images/welcome1.jpg"
 
 
+
 export default function Welcome() {
   return (
       <section className="container2">

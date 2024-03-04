@@ -1,0 +1,133 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+.top-nav{
+    background-color: #07397B;
+}
+.nav-link{
+    color: aliceblue;
+}
+.navbar{
+    background-color: #ffffff;
+}
+.navbar .nav-link{
+    color: #07397B;
+}
+.disclo{
+    border-radius: 30px;
+    background-color: #DF5F03;
+    color: white;
+}
+.intro{
+    background: url('./images/home.png') center / cover no-repeat;
+    text-align: center;
+    color:#ffffff;
+}
+.intro h1{
+    margin-top: 100px;
+}
+.intro p{
+    margin-bottom: 100px;
+}
+.accr{
+    background: url('./images/welcome1.jpg') center / cover no-repeat;
+    color:#ffffff;
+    text-align: center;
+}
+.accrh{
+    margin-top: 100px; 
+}
+.accrp{
+    margin-bottom: 100px;
+}
+.user{
+  width: 2.6em; 
+ 
+}
+.acchead{
+    margin-top: 0px;
+}
+
+.linkedin{
+    width: 28px;
+    margin: 0;
+}
+.signin , .signup{
+    padding: 8px;
+    background-color: #FF6B00;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 9px;
+    border-radius: 30px;
+    font-size: 22px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    font-weight: 560;
+  }
+  .signin__form input , .signup__form input {
+    border-radius: 30px;
+    border: 2px solid #ccc; 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+  .signin__form label {
+    color: #07397B;
+    font-size: 16px;
+    font-weight: 550;
+  }
+  .signin__form h3 {
+    color: #07397B;
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: underline;
+  }
+.log{
+    background-color: #EAEAEA;
+}
+.account h3{
+    color: #07397B;
+    
+    font-weight: 550;
+}
+.accleft{
+    padding: 18px 100px 15px 20px;
+}
+.accswitch, .accform{
+    padding-left: 70px;
+    
+}
+.accswitch{
+    padding-top: 55px;
+}
+#signinb , #signupb{
+    color: #07397B;
+    font-weight: 550;
+}
+#signinb{
+    border-bottom: 9px solid #DF5F03;
+}
+.signinform{
+   display: block;
+}
+.signupform{
+   display: none;
+}
+.signupform .form-group{
+    padding-bottom: 15px;
+}
+.links  {
+    color: #6C685D;
+    
+}
+.links h5 {
+    font-size: 15px;
+}
+.foot{
+    color: F6F6F6;
+}
+.btt{
+    padding-left: 55px;
+}
+.row1{
+    padding-top: 45px;
+    padding-bottom: 25px;
+}
